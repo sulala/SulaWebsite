@@ -1,0 +1,5 @@
+d:\documents\visual studio 2012\Projects\Homework\Homework\bin\Homework.dll
+d:\documents\visual studio 2012\Projects\Homework\Homework\bin\Homework.pdb
+d:\documents\visual studio 2012\Projects\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Homework\Homework\obj\Debug\Homework.dll
+d:\documents\visual studio 2012\Projects\Homework\Homework\obj\Debug\Homework.pdb
